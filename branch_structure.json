@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/data-retention-policy-enforcement",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/data-retention-policy-enforcement": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/data-retention-policy-enforcement",
+    "origin"
+  ]
+}
